@@ -1,3 +1,5 @@
+from manim import *
+
 class KinematicEquations(Scene):
 
     # Configuration for all text elements
