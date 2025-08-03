@@ -1,3 +1,3 @@
-# manim-kinetic-equations
+# manim-kinematic-equations
 
-A MANIM animation to visually show how the kinetic equations (uniform acceleration) is derived.
+A MANIM animation to visually show how the kinematic equations (uniform acceleration) is derived.
