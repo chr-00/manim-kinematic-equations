@@ -1,4 +1,4 @@
-class KineticEquations(Scene):
+class KinematicEquations(Scene):
 
     # Configuration for all text elements
     
@@ -365,6 +365,6 @@ class KineticEquations(Scene):
         self.play(Uncreate(highlight_displacement_area))
         self.wait(2)
         self.clear()
-        github_link = Tex("https://github.com/chr-00/manim-kinetic-equations", font_size=30)
+        github_link = Tex("https://github.com/chr-00/manim-kinematic-equations", font_size=30)
         self.play(Write(github_link))
         self.wait(5)
